@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.sign-up{
+background: linear-gradient(90deg,rgb(250, 243, 255) 0%, rgb(255, 249, 249) 20%, rgb(255, 248, 234) 71%);}
